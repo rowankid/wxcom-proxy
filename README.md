@@ -1,8 +1,8 @@
 ## 自托管
 
 ```
-git clone https://github.com/Ice-Hazymoon/openai-scf-proxy
-cd openai-scf-proxy
+git clone https://github.com/rowankid/wxcom-proxy
+cd wxcom-proxy
 npm install
 npm run start
 ```
